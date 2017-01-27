@@ -3,6 +3,8 @@
 
 Adds the Human Made updates P2 to [Franz](http://meetfranz.com/).
 
+![screenshot](https://github.com/jazzsequence/humanmade-franz/blob/master/screenshots/Screenshot%202017-01-27%2010.57.01.png?raw=true)
+
 ### Installation instructions
 
 1. Download & extract the [zip file](https://github.com/jazzsequence/humanmade-franz/files/735969/humanmade.zip).
