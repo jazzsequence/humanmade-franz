@@ -1,4 +1,5 @@
 # Human Made Franz plugin.
+####v1.0.0
 
 Adds the Human Made updates P2 to [Franz](http://meetfranz.com/).
 
