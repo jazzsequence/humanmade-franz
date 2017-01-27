@@ -1,0 +1,23 @@
+{
+	"name": "humanmade",
+	"version": "1.0.0",
+	"description": "Human Made Updates",
+	"main": "index.js",
+	"author": "Chris Reynolds <chris@hmn.md>",
+	"license": "GPL3",
+	"config": {
+		"serviceURL": "https://updates.hmn.md",
+		"serviceName": "Human Made",
+		"message": "",
+		"popup": [],
+		"hasNotificationSound": false,
+		"hasIndirectMessages": true,
+		"hasTeamID": false,
+		"customURL": false,
+		"hostedOnly": false,
+		"webviewOptions": {
+			"disablewebsecurity": ""
+		},
+		"openDevTools": false
+	}
+}
